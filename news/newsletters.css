@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Futura LT', sans-serif;
+}
+.body{
+
+}
+.main{
+    min-width: 100%;
+}
+.intro-text-a{
+    text-align: center;
+    margin-bottom: 60px;
+    font-size: 18px;
+
+}
+.intro-text-a ul{
+    margin-top: 20px;
+}
+.intro-text-a ul li {
+    line-height: 22px;
+}
+.intro-text-a ul li a{
+    font-size: 18px;
+}
+.newsletter {
+    height: 270px;
+    text-align: center;
+    padding: 30px 0;
+    
+}
+.even{
+    background-color: #a0bcd4;
+    color: #fff;
+    /* margin-bottom: -100px; */
+}
+.odd{
+    color: #789cbc;
+    background-color: #fff;
+}
+h1{
+    font-size: 36px;
+    font-weight: 400;
+    letter-spacing: 1px;
+}.row{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin-top: 30px;
+    
+}
+.col{
+    margin-right: 10px;
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.new-text{
+    font-size: 40px;
+}
+
+.issue{
+    padding: 9px 5px;
+    width: 75px;
+    text-align: center;
+    transition: 0.5s;
+    
+   
+}
+.newsletter .issue:hover{
+    background-color: grey;
+}
+.col a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+.odd .issue{
+    background-color: #789cbc;
+}
+.even .issue{
+    background-color: #204464;
+    margin-bottom: -100px;
+}
+#last{
+    margin-bottom: -250px;
+}
+
+

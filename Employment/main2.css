@@ -1,0 +1,160 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h2.employment{
+    font-size: 30px;
+    font-family: 'Lfutura',sans-serif;
+    color: #012646;
+    text-align: center;
+    letter-spacing: 15px;
+    margin: 40px 0 6px 0;
+
+}
+
+p.faith{
+    color: #012646;
+    /* font-family: brandon-grot-w01-light,sans-serif; */
+    font-size: 14px;
+    width: 85%;
+    line-height: 27px;
+    letter-spacing: 3px;
+    margin-left: 5rem;
+    margin-bottom: 2rem;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+    text-align: left;
+
+}
+
+
+p.faith-offer{
+    color: #012646;
+    /* font-family: brandon-grot-w01-light,sans-serif; */
+    font-size: 14px;
+    width: 85%;
+    line-height: 27px;
+    letter-spacing: 3px;
+    margin-left: 5rem;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+    text-align: left;
+}
+
+p.require{
+    font-size: 19px;
+    font-weight: bold;
+    font-family: "font-family:brandon-grot-w01-light,sans-serif";
+    color: #012646;
+    text-align: center;
+    margin: 40px 0 6px 0;
+   
+}
+
+p.candidate{
+        color: #012646;
+    /* font-family: brandon-grot-w01-light,sans-serif; */
+    font-size: 14px;
+    width: 86%;
+    text-align: left;
+    line-height: 27px;
+    letter-spacing: 3px;
+    margin-left: 5rem;
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+}
+
+a.link1{
+    color: #012646;
+    
+    letter-spacing: 3px;
+}
+
+a.link2{
+    color: white;
+    
+}
+
+.container {
+    background-color: rgb(1, 38, 70);
+    left: 0;
+    right: 0;
+    height: 150px;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+    position: relative;
+    margin-top: 20px;
+    
+}
+
+.container1 {
+    background-color: rgb(86, 142, 191);
+    height: auto;
+    width: auto;
+    left: 0;
+    right: 0;
+    padding-bottom: 20px;
+    padding-top: 2px;
+   position: relative;
+}
+
+.container2 {
+    background-color: rgb(1, 38, 70);
+    left: 0;
+    right: 0;
+    height: auto;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    padding-top: 2px;
+    position: relative;
+    padding-bottom: 20px;
+    
+}
+
+.container3 {
+    
+    margin-inline-start: 12em;
+    margin-inline-end: 12em;
+    margin-bottom: -220px;
+    
+}
+
+p.par {
+    color: white;
+    text-align: center;
+    font-family: "font-family:brandon-grot-w01-light,sans-serif;";
+    
+    margin-inline-start: 10em;
+    margin-inline-end: 10em;
+    line-height: 1.5em;
+    margin-top: 0;
+    font-size: 16px;
+    letter-spacing: 1px;
+    
+
+}
+
+h2.main {
+    text-align: center;
+    color: white;
+    font-family: 'Lfutura',sans-serif;
+    font-size: 36px;
+    font-weight: 200;
+    letter-spacing: 5px;
+    margin-top: 20px;
+    
+}
+

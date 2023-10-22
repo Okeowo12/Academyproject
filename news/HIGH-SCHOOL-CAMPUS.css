@@ -1,0 +1,158 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+    font-family: 'LFutura', sans-serif;
+}
+
+
+
+
+
+
+
+/* THIS CONTAINS THE MIDDLE-BODY CODE */
+/* 1ST PAGE CONTAINING THE PDF */
+.icon-shake {
+    font-size: 20px;
+    color:#022646;
+    margin: 5px 10px;
+    line-height: 20px;
+    border-radius: 25px;
+    padding: 4px;
+}
+.element-body {
+
+}
+.first-box {
+    background-color: #bfd5ea;
+    height: 1000px;
+    width: 100%;
+    padding: 20px;
+    
+}
+.info-box {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+.locate-box {
+    text-align: left;
+
+    margin-left: 38%;
+}
+.address-icon {
+   
+}
+.impt-text {
+    text-align: center;
+    letter-spacing: 5px;
+    text-decoration: underline;
+}
+.three-pdf {
+    text-align: center;
+}
+.school-pdf {
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+    border: 0px solid;
+    width: 220px;
+    height: 150px;
+    display: inline-block;
+    background-color: white;
+    vertical-align:text-top;
+}
+.middle-pdf {
+    height: 200px;
+}
+.school-text {
+    text-align: center;
+    display: inline-block;
+    text-decoration: underline;
+}
+
+
+.para-box {
+    margin-top: 20px;
+    padding: 10px;
+    position: relative;
+    left: 16%;
+    text-align: left;
+    width: 70%;
+    color:#080909;
+}
+
+/* THIS PAGE CONTAINS THE GOOGLE CALENDER - 2ND SECTION */
+.cal-box {
+    text-align: center;
+    background-color: white;
+    height: 750px;
+    padding: 20px;
+}
+/* MIDDLE SCHOOL STAFF*/
+.staff {
+    background-color: #bfd5ea;
+    height: 750px;
+    padding: 20px;
+    margin-bottom: -280px;
+}
+.staff-text {
+    text-align: center;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+}
+.teachers-list{
+    line-height: 25px;
+    width: 100%;
+    position: relative;
+    left: 350px;
+}
+.all-admin {
+}
+.move-right {
+    margin-left: 20px;
+    /* text-align:start; */
+    color: black;
+    vertical-align:top;
+}
+.administrate{
+    margin: 5px;
+}
+.teacher {
+    margin-top: 35px;
+    
+}
+.teach-underline {
+    text-decoration: underline;
+}
+.teacher-name {
+    margin: 5px;
+}
+.education {
+    margin-top: 50px;
+}
+/* ELEMENTARY MEDIA QUERY */
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width:400px)   {
+    
+}
+
+
+
+/* FOOTER SECTION */
+/* FOOTER SECTION */
+/* font-family: 'M PLUS Rounded 1c', sans-serif; */
+
+

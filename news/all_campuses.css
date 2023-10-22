@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Libre Baskerville', serif;
+}
+/* PRITCHARD CAMPUS CALENDER */
+.campus{
+    height: 100vh;
+    padding: 20px 0;
+    overflow: hidden;
+    
+}
+.odd{
+    background-color: #a0bcd4;
+}
+.even{
+    background-color: #fff;
+     
+}
+.text{
+    /* position: relative; */
+    margin-left: 20%;
+
+    
+}
+.text h2{
+    font-weight: 200;
+    font-size: 22px;
+    color: #204464;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+    
+}
+#camp{
+    margin-bottom: -300px;
+}
+/* //////////////////////////////////////////// */
+
+  

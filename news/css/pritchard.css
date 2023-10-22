@@ -1,0 +1,64 @@
+@import url('https://fonts.cdnfonts.com/css/palatino-linotype');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Futura LT', sans-serif;
+}
+
+.blue{
+    padding: 20px;
+    background-color: #a0bcd4;
+    padding-left: 220px;
+    padding-right: 220px;
+    overflow: hidden;
+    
+}
+.whole h2{
+    font-family: 'Palatino Linotype', sans-serif;
+    font-weight: 200;
+    letter-spacing: 10px;
+    text-align: center;
+    color: #204464;
+}
+.whole h3{
+    margin: 30px 0 10px;
+    text-align: center;
+    letter-spacing: 2px;
+    font-size: 17px;
+    color: #204464;
+}
+.blue p{
+    margin: 10px 0;
+}
+.indent{
+    position: relative;
+    left: 30%;
+    margin-bottom: 30px;
+}
+.intent-text a{
+    color: black;
+}
+.indent .fa{
+    margin-right: 10px;
+    
+}
+.prit-calendar{
+    background-color: #fff;
+    height: 100vh;
+    padding: 30px;
+    text-align: center;
+}
+.staffs{
+    width: 250px;
+    margin-top: 20px;
+}
+.staffs a{
+    float: right;
+}
+
+
+

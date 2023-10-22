@@ -1,0 +1,335 @@
+/* NAVBAR SECTION */
+/* NAVBAR SECTION */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'LFutura', sans-serif;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+/* IMAGE BACKGROUND */
+/* IMAGE BACKGROUND */
+.image {
+    background-image: url(programimages/edited.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 55vh;
+    /* z-index: -1; */
+}
+
+.background-text {
+    color: white;
+    text-align: center;
+    font-family: "palatino linotype";
+    position: relative;
+    top: 165px;
+    font-size: 53px;
+    font-weight: bold;
+    letter-spacing: 0.2em;
+    -webkit-text-fill-color: white;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 0.6px;
+}
+
+#write-up {
+    font-weight: lighter;
+    text-align: center;
+    font-size: 22px;
+    margin-top: 30px;
+}
+
+.faith-academy p {
+    text-align: center;
+}
+
+
+/* ICON/TEXT STYLINGS */
+/* SCHOOL TRIPS ICON*/
+/* SCHOOL TRIPS ICON*/
+.school-trips {
+    position: absolute;
+    left: 393px;
+    top: 800px;
+}
+
+.fa-suitcase {
+    font-size: 60px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.trip-text {
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.2em;
+}
+
+.Read-more {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-weight: light;
+}
+
+.line {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.school-trips span {
+    font-size: 11px;
+}
+
+/* SPONSORSHIHPS ICON*/
+/* SPONSORSHIHPS ICON*/
+.sponsorships {
+    position: absolute;
+    left: 393px;
+    top: 610px;
+}
+
+.img-l {
+    width: 80px;
+    height: 10vh;
+}
+
+.trip-text {
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.2em;
+}
+
+.Read-more {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.line {
+    font-weight: lighter;
+}
+
+.sponsorships span {
+    font-size: 11px;
+}
+
+
+/* MISSION TEAMS ICON*/
+/* MISSION TEAMS ICON*/
+.mission-teams {
+    position: absolute;
+    left: 750px;
+    top: 620px;
+}
+
+.fa-group {
+    font-size: 60px;
+    -webkit-text-fill-color: transparent;
+    -webkit-text-stroke-color: black;
+    -webkit-text-stroke-width: 1px;
+}
+
+.trip-text {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.2em;
+}
+
+.Read-more {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.line {
+    font-weight: lighter;
+}
+
+.mission-teams span {
+    font-size: 11px;
+}
+
+
+/* FAITH LEARNING ICON*/
+/* FAITH LEARNING ICON*/
+.faith-learning {
+    position: absolute;
+    left: 700px;
+    top: 785px;
+}
+
+.img-3 {
+    width: 100px;
+}
+
+.trip-text {
+    font-size: 18px;
+    font-weight: lighter;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 0.2em;
+}
+
+.Read-more {
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.line {
+    font-weight: lighter;
+}
+
+.faith-learning span {
+    font-size: 11px;
+}
+
+
+/* SPONSORSHIP SECTION */
+/* SPONSORSHIP SECTION */
+#sponsorship-section {
+    margin-top: 500px;
+    background-color: lightblue;
+    height: 80vh;
+}
+
+.sponsorship-trips-header {
+    text-align: center;
+    font-size: 26px;
+    letter-spacing: 5.2px;
+    text-align: center;
+    font-family: "palatino linotype";
+    font-weight: 10px;
+    position: relative;
+    bottom: 25px;
+}
+
+.sponsorship-text {
+    width: 60%;
+    margin-left: 20%;
+    /* margin-top: 30px; */
+    font-size: 20px;
+    position: relative;
+    top: 65px;
+}
+
+
+/* MISSION TEAMS */
+/* MISSION TEAMS */
+#mission-section {
+    margin-top: 100px;
+}
+
+.mission-trips-header{
+    font-size: 26px;
+    letter-spacing: 5.2px;
+    vertical-align: baseline;
+    text-align: center;
+    font-family: "palatino linotype";
+    font-weight: 10px;
+    text-decoration: none solid rbg(1, 38, 70);
+    color: rbg(1, 38, 70);
+}
+.miss-section-text {
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+/* SCHOOL TRIP SECTION */
+/* SCHOOL TRIP SECTION */
+.school-trip-section {
+    padding-top: 3em;
+    background-color: lightblue;
+}
+
+.school-trip-text {
+    margin-top: 30px;
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+.school-trip-section p {
+    font-family: 'LFutura', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+h5 {
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: normal;
+    font-family: "Futura-it-w01-light";
+}
+
+
+/* FAITH LEARNING SECTION */
+/* FAITH LEARNING SECTION */
+#faith-learning-section {
+    margin-top: 100px;
+}
+
+.faith-learning-header {
+    text-align: center;
+    font-size: 26px;
+    letter-spacing: 5.2px;
+    text-align: center;
+    font-family: "palatino linotype";
+    font-weight: 10px;
+    position: relative;
+    bottom: 40px;
+}
+
+.faith-learning-text {
+    width: 60%;
+    margin-left: 20%;
+    font-size: 20px;
+    position: relative;
+    top: 20px;
+    margin-bottom: -200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

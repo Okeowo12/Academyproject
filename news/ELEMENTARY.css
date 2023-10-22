@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+html {
+    scroll-behavior: smooth;
+}
+body {
+    padding: 0;
+    margin: 0;
+    overflow-x:hidden;
+    font-family: 'LFutura', sans-serif;
+}
+
+
+
+/* THIS CONTAINS THE MIDDLE-BODY CODE */
+/* 1ST PAGE CONTAINING THE PDF */
+.icon-shake {
+    font-size: 20px;
+    color:#022646;
+    margin: 5px 10px;
+    line-height: 20px;
+    border-radius: 25px;
+    padding: 4px;
+}
+.element-body {
+
+}
+.first-box {
+    background-color: white;
+    height: 450px;
+    width: 100%;
+}
+.info-box {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+}
+.locate-box {
+    text-align: left;
+    margin-left: 250px;
+}
+. {
+    text-align: center;
+    /* line-height: 20px; */
+}
+.school-pdf{
+   display: inline-block;
+   margin: 15px 20px;
+   /* position: relative;
+   left: 0px; */
+}
+.address {
+    text-align: left;
+}
+.para-box {
+    margin-top: 20px;
+    padding: 10px;
+    position: relative;
+    left: 20%;
+    text-align: center;
+    width: 65%;
+    color:#080909;
+}
+
+/* THIS PAGE CONTAINS THE GOOGLE CALENDER - 2ND SECTION */
+.cal-box {
+    text-align: center;
+    background-color: #bfd5ea;
+    height: 750px;
+    padding: 5px;
+}
+/* ELEMENTARY SCHOOL STAFF */
+.staff {
+    background-color: white;
+    height: 800px;
+    padding: 10px;
+    margin-bottom: -280px;
+}
+.staff-text {
+    text-align: center;
+}
+.teachers-list{
+    line-height: 25px;
+    width: 100%;
+    position: relative;
+    left: 350px;
+}
+.all-admin {
+}
+.move-right {
+    margin-left: 20px;
+    text-align-last: left;
+    color: black;
+}
+.administrate{
+    margin: 5px;
+}
+.teacher {
+    margin-top: 35px;
+}
+.teacher-name {
+    margin: 5px;
+}
+.education {
+    margin-top: 50px;
+}
+/* ELEMENTARY MEDIA QUERY */
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width:400px)   {
+    
+}
+

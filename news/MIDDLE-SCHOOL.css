@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+/* THIS CONTAINS THE MIDDLE-BODY CODE */
+/* 1ST PAGE CONTAINING THE PDF */
+.icon-shake {
+    font-size: 20px;
+    color:#022646;
+    margin: 5px 10px;
+    line-height: 20px;
+    border-radius: 25px;
+    padding: 4px;
+   
+}
+.element-body {
+}
+.first-box {
+    background-color: #bfd5ea;
+    height: 500px;
+    width: 100%;
+    padding: 20px;
+    
+}
+.info-box {
+    text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+    letter-spacing: 5px;
+}
+.locate-box {
+    text-align: left;
+    margin-left: 250px;
+}
+.pdf-border{
+    text-align: center;
+    border: 0px solid;
+    padding: 10px 25px;
+    background-color: white;
+    /* line-height: 20px; */
+}
+.school-pdf{
+   display: inline-block;
+   margin: 15px 50px;
+   position: relative;
+   right: 50px;
+   /* z-index: -1; */   
+}
+.address {
+    text-align: left;
+    
+}
+.para-box {
+    margin-top: 20px;
+    padding: 10px;
+    position: relative;
+    left: 16%;
+    text-align: left;
+    width: 70%;
+    color:#080909;
+}
+
+/* THIS PAGE CONTAINS THE GOOGLE CALENDER - 2ND SECTION */
+.cal-box {
+    text-align: center;
+    background-color: white;
+    height: 750px;
+    padding: 20px;
+}
+/* MIDDLE SCHOOL STAFF*/
+.staff {
+    background-color: #bfd5ea;
+    height: 900px;
+    padding: 20px;
+    margin-bottom: -280px;
+    
+}
+.staff-text {
+    text-align: center;
+    letter-spacing: 10px;
+    margin-bottom: 20px;
+}
+.teachers-list{
+    line-height: 25px;
+    width: 100%;
+    position: relative;
+    left: 350px;
+}
+.all-admin {
+}
+.move-right {
+    margin-left: 20px;
+    /* text-align:start; */
+    color: black;
+}
+.administrate{
+    margin: 5px;
+}
+.teacher {
+    margin-top: 35px;
+}
+.teacher-name {
+    margin: 5px;
+}
+.education {
+    margin-top: 50px;
+    /* margin-bottom: 50px; */
+
+}
+/* ELEMENTARY MEDIA QUERY */
+.row::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+@media screen and (max-width:400px)   {
+    
+}
+

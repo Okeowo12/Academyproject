@@ -1,0 +1,140 @@
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+
+}
+
+.first{
+     margin-top: 11px;
+}
+.first p{
+     text-align: center;
+     font-size: 16px;
+     font-family:sans-serif ;
+     color: rgb(var(--color_25));
+}
+
+#H4{
+     font-size: 16px;
+     font-family: "times new roman";
+     margin: 10px 0 0px 206px;
+}
+
+.all-box{
+     /* background-color: white; */
+     width: 80%;
+     height: 800px;
+     overflow: scroll;
+     overflow-x: hidden;
+     margin-left: 100px;
+}
+
+
+.allbox1 {
+     width: 100%;
+     height: 330px;
+     background-color:rgb(211, 236, 228);
+     margin: 10px 15% 0 10%;
+}
+
+#heading{
+     font-size: 15px;
+     font-weight: 300px;
+     color: white;
+     line-height: 18px;
+     padding-left: 1px;
+     font-family: none;
+}
+#heading1{
+     font-size: 16px;
+     color: white;
+     line-height: 18px;
+     padding-left: 5px;
+     font-family: none;
+     font-weight: 300px;
+}
+div.s {
+     background-color: rgb(14, 14, 163);
+     width: 160%;
+     
+}
+.ERL{
+     float: left;
+}
+.ERL a{
+     padding: 1px 6px ;
+     font-size: 16px;
+     font-weight: 500px;
+}
+
+.allbox2{
+     width: 100%;
+     height: 300px;
+     background-color: #fff;
+     margin: 0px 15% 0 10%;
+}
+
+div.b {
+     background-color: rgb(14, 14, 163);
+     width: 230%;
+
+}
+
+.allbox3{
+     width: 100%;
+     height: 150px;
+     background-color: rgb(211, 236, 228);
+     margin: 0px 15% 0 10%;
+}
+div.c {
+     background-color: rgb(14, 14, 163);
+     width:520%;
+}
+
+.allbox4{
+     width: 100%;
+     height: 250px;
+     background-color: #fff;
+     margin: 0px 15% 0 10%;
+}
+
+div.d {
+     background-color: rgb(14, 14, 163);
+     width: 260%;
+}
+
+.allbox5{
+     width: 100%;
+     height: 200px;
+     background-color: rgb(211, 236, 228);
+     margin: 0px 3% 0 10%;
+}
+
+div.e {
+     background-color: rgb(14, 14, 163);
+     width: 240%;
+}
+
+.allbox6{
+     width: 100%;
+     height: 227px;
+     background-color: #fff;
+     margin: 0px 15% 0 10%;
+}
+
+div.f {
+     background-color: rgb(14, 14, 163);
+     width: 285%;
+}
+
+.box{
+     margin: 0px 12.7% 0 15%;
+     border-top: 1px solid rgb(156, 156, 156);
+     border-bottom: 1px solid rgb(156, 156, 156);;
+     height: 35px;
+     padding: 6px;
+     margin-bottom: -215px;
+     background-color: rgb(235, 232, 232);
+     
+}
